@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 First Document in QA
+=======
+FirstDoc to Dev.
+Second commit
+>>>>>>> eaf8ba606b4c20e2fa5dcfa6a17149788476dda8
